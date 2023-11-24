@@ -1,0 +1,20 @@
+This project works on the web version. For the android version I simply get a "Undefined is not a function" error that I can't solve.
+The issue might be related to the react-navigation, but it didn't seem to work, no matter what I tried. Even changing the dependencies didn't fix it.
+I have knowledge and experience with both react and react-native, but I've neve faced this problem. 
+Anyway, I'm very happy with the result I got, specially with the color changing for each pokemon (even though it is kinda slow and I wanted softer colors).
+
+REFERENCES:
+1. Where I learned api calls and fullstack: 
+- https://fullstackopen.com/en/
+
+2. Where I learned react:
+- https://react.dev/learn
+
+3. Documentations:
+- https://reactnative.dev
+- https://styled-components.com
+- https://reactnavigation.org
+
+4. My hero when nothing worked:
+- https://chat.openai.com
+(used on a few decorations and troubleshooting errors)
